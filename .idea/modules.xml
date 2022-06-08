@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MetaMask_EtherJS-main.iml" filepath="$PROJECT_DIR$/.idea/MetaMask_EtherJS-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/metamask-react.iml" filepath="$PROJECT_DIR$/.idea/metamask-react.iml" />
     </modules>
   </component>
 </project>
